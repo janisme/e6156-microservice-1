@@ -9,12 +9,12 @@ app = FastAPI()
 
 students_resource = StudentsResource()
 
-
+#if get nothing reply this
 @app.get("/")
 async def root():
     return {"message": "Hello World"}
 
-
+#if get /hell0/{anything}
 @app.get("/hello/{name}")
 async def say_hello(name: str):
     return {"message": f"Awesome cloud developer dff9 says hello {name}"}
