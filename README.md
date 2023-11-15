@@ -1,6 +1,6 @@
 # E6156 - Topics in SW Engineering: Cloud Computing<br>First Example Microservice
 
-__Author:__ Donald F. Ferguson
+__Author:__ Yenchu Chen
 
 ## Local Project Execution
 
@@ -39,8 +39,6 @@ from the terminal prompt line by typing ```python main.py```
 - Click on ```http://0.0.0.0:8012``` link to open in the browser. You can also copy and past the link.
 You will see something of the form
 
-| <img src="./browser-screen-1.png"> |
-| :---: |
 | __Simple Execution__ |
 
 
