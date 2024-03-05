@@ -1,6 +1,7 @@
 # E6156 - Topics in SW Engineering: Cloud Computing<br>First Example Microservice
 
 __Author:__ Yenchu Chen
+Based on donald-f-ferguson, course 6156.
 
 ## Local Project Execution
 
